@@ -29,3 +29,4 @@ However, code for preprocessing is provided in the util.py file.
  pandas 1.2.5
  matplotlib 3.3.4
  
+ #### Detailed report can be found [here](https://github.com/Anjali-Kadiyala/HAI-IIITH-Assignments/blob/main/HAI-Assignment-2/Report_Anjali.pdf)
