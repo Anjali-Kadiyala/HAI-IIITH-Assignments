@@ -20,12 +20,12 @@ However, code for preprocessing is provided in the util.py file.
 
 ### Environment
 
-> Python 3.8.10
-> torch 1.9.0
-> tqdm  4.61.1
-> scikit-learn 0.24.2    
-> scipy 1.7.0
-> numpy 1.20.3
-> pandas 1.2.5
-> matplotlib 3.3.4
+ Python 3.8.10
+ torch 1.9.0
+ tqdm  4.61.1
+ scikit-learn 0.24.2    
+ scipy 1.7.0
+ numpy 1.20.3
+ pandas 1.2.5
+ matplotlib 3.3.4
  
