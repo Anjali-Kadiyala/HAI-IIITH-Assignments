@@ -336,7 +336,7 @@ def test(model, batch_size,
 
 def run(data_path):
 
-    n_epoch = 1 #200
+    n_epoch = 100 #200
     lr = 0.003
     n_split = 50
 
