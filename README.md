@@ -1,5 +1,5 @@
 # Assignment submissions at Healthcare and AI (HAI), IIIT-Hyderabad.
-This repository contains assignment submissions given at Healthcare and Artificial Intelligence(HAI), IIIT Hyderabad.
+Assignment submissions - Healthcare and Artificial Intelligence(HAI), IIIT Hyderabad.
 
 ### [Assignment 1](https://github.com/Anjali-Kadiyala/HAI-IIITH-Assignments/blob/main/HAI-Assignment-1)
 
